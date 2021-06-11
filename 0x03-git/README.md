@@ -1,1 +1,3 @@
-0x03-git flolder
+This file is mandatory in all Holberton School project
+
+
